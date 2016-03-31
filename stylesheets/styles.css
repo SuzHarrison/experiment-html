@@ -1,0 +1,200 @@
+html {
+  font-size: 16px;
+}
+
+header {
+  background-color: black;
+}
+
+.topbook {
+  color: red;
+  text-align: right;
+  font: Arial;
+  font-size: 18px;
+  margin-right: 15px;
+  float: right;
+}
+
+h1 {
+  color: white;
+  text-align: left;
+  font-family: sans-serif;
+  font: Arial;
+  font-size: 46px;
+  height: 55px;
+  margin-bottom: 0;
+  padding-top: 90px;
+  padding-left: 50px
+}
+
+.tagline {
+  color: grey;
+  text-align: left;
+  font-family: sans-serif;
+  font: Arial;
+  margin: 0; 15; 0; 15
+  font-size: 23px;
+  padding-left: 50px
+}
+
+.topbar {
+  background-color: grey;
+  /*color: purple;*/
+  text-align: center;
+  font-family: sans-serif;
+  font: Arial;
+  font-size: 24px;
+  margin: 0;
+  padding: 0;
+}
+
+.topbar li{
+    display:inline;
+    padding: 30px;
+    font-size: 20px;
+
+}
+.topbar a{
+    color: purple;
+    display:inline-block;
+    padding:10px;
+}
+
+h2 {
+  color: black;
+  text-align: left;
+  font-family: sans-serif;
+  font: Arial;
+  font-size: 48px;
+  margin-left: 15px;
+  padding-top: 5px;
+}
+
+section {
+  height: auto;
+  max-width: 55%;
+  margin-left: 15px;
+  float: left;
+}
+
+p {
+  text-align: left;
+  font-family: sans-serif;
+  font: Arial;
+  font-size: 28px;
+  font-kerning: none;
+  line-height: 150%;
+  margin-left: 15px;
+  padding-top: 10px;
+}
+
+aside {
+  text-align: center;
+  max-width: 35%;
+  border-style: solid;
+  margin: 10px;
+  padding:5px;
+  float: right;
+}
+
+ aside img {
+   margin: 0;
+   width: 90%;
+}
+
+/*.figtext {
+  max-width: 65%
+}*/
+
+.booknow {
+  color: red;
+  text-align: right;
+  font: Arial;
+  font-size: 18px;
+  margin-top: 0px;
+  margin-right: 5px;
+  float: right;
+}
+body {
+  background-color: white;
+}
+
+h3 {
+  text-align: center;
+  font-family: sans-serif;
+  font: Arial;
+  font-size: 40px;
+  padding-top: 0;
+  margin-top: 20px;
+  margin-left: 2px;
+  margin-right: 2px;
+  margin-bottom: 15px;
+
+}
+.bottomphoto {
+  text-align: center;
+  font-family: sans-serif;
+  font: Arial;
+  font-size: 44px;
+  padding-top: 0;
+  margin-top: 0px;
+  margin-left: 2px;
+  margin-right: 2px;
+  margin-bottom: 0px
+
+}
+footer {
+  background-color: black;
+  color: white;
+  text-align: left;
+  font-family: sans-serif;
+  font: Arial;
+  font-size: 24px;
+  font-style: normal;
+  /*height: 29px;*/
+  /*margin-bottom: 0;*/
+  padding-top: 40px;
+  padding-left: 40px;
+  clear: both;
+}
+
+footer address {
+  font-style: normal;
+
+}
+.footeremail {
+  color: red;
+  text-align: left;
+  margin-left: 0px;
+
+}
+.bottomline {
+  color: white;
+  text-align: center;
+  font-family: sans-serif;
+  font: Arial;
+  font-size: 24px;
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-top: 0px;
+
+}
+/*a:hover {
+    background-color: yellow;
+}
+
+h1, h2, h3 {
+    text-align: left;
+}
+
+h2.uppercase {
+    text-transform: uppercase;
+}
+
+.highlight {
+  color: red;
+}
+
+p.highlight {
+  background-color: purple;
+}*/
